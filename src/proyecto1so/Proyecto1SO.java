@@ -15,8 +15,10 @@ public class Proyecto1SO {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.print("hola");
+        
         // TODO code application logic here
+        Workers worker = new Workers();
+        worker.run(); 
     }
     
 }
