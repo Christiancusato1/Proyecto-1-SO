@@ -9,6 +9,9 @@ package proyecto1so;
  * @author giovannacianfaglione
  */
 public class Workers extends Thread {
+    private Drive drive;
+    private int day;
+    
     
     
     @Override
