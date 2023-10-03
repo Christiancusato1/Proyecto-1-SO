@@ -5,11 +5,19 @@
  */
 package proyecto1so;
 
+import java.util.concurrent.Semaphore;
+
 /**
  *
  * @author Usuario
  */
 public class Developer extends Thread {
+    private float salary;
+    private float accSalary;
+    private String label;
+    private Semaphore mutex;
+    
+
     
     
     @Override
