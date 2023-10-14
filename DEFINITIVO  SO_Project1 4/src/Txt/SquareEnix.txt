@@ -1,0 +1,8 @@
+dayDuration,1
+narrativa,1
+niveles,1
+sprites,1
+logica,1
+dlc,1
+integrador,1
+dayCounter,5
